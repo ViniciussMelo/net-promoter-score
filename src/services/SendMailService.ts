@@ -6,7 +6,7 @@ export interface IMailVariables {
     name: string;
     title: string;
     description: string;
-    user_id: string;
+    surveyUser_id: string;
     link: string;
 }
 
